@@ -88,4 +88,3 @@ if st.button("Calculate BMI"):
     else:
         st.warning("Please fill in all fields.")
 
-!pip install streamlit
