@@ -1,3 +1,3 @@
 # bmi-app
 
-A small demnsrtation of bmi calculation deployed on streamlit cloud
+A small demonstration of bmi calculation deployed on streamlit cloud
